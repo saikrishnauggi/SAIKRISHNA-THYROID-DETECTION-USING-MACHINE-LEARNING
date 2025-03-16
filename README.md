@@ -31,12 +31,12 @@ The system preprocesses the dataset, applies machine learning models, and compar
 
 ## **Features**
 
-✔️ Predicts thyroid diseases using machine learning classification models.  
-🔄 Preprocesses raw data by encoding non-numeric entries into numeric ones.  
-📊 Compares model performance (Naive Bayes, SVM, Random Forest).  
-⚙️ Trains the model with 80% of the dataset and tests on 20%.  
-📈 Displays results graphically for intuitive analysis.  
-🔮 Predicts the presence of thyroid disease using uploaded test data.
+ Predicts thyroid diseases using machine learning classification models.  
+ Preprocesses raw data by encoding non-numeric entries into numeric ones.  
+ Compares model performance (Naive Bayes, SVM, Random Forest).  
+ Trains the model with 80% of the dataset and tests on 20%.  
+ Displays results graphically for intuitive analysis.  
+ Predicts the presence of thyroid disease using uploaded test data.
 
 ---
 
